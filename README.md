@@ -24,7 +24,7 @@ flask-docker-test/
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jamolkhon5/flask-docker-test.git
 cd flask-docker-test
 ```
 
